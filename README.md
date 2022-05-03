@@ -1,8 +1,8 @@
 ### Hello! 👋
 
 My name is Caio Guedes, and I'm a CompSci undergrad at Universidade Federal de Minas Gerais (UFMG).
-- 🕹 I'm a game developer, and I work developing games using C# and Unity.
-- 💻 I'm interested on any aspect of games programming, especially physics, graphics and gameplay systems. I develop projects and study languages commonly used in games, such as C++, C# and Lua.
+- 🕹 I'm a game developer, and I currently work as a software engineer in the games industry.
+- 💻 I'm interested on any aspect of games programming, but especially graphics and engine development. I develop projects and study languages commonly used in games, such as C++, C# and Lua.
 - 🎮 You can check out my released games [here](https://caioguedes.itch.io/)!
 
 <!--
